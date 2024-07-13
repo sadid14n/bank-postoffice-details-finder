@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.body{
+    background-color: rgb(0, 0, 69);
+    min-height: 88vh;
+    width: 100vw;
+    color: white;
+}
+
+.list ul{
+    list-style: none;
+}
+
+.postOfficeBody{
+    background-color: rgb(255, 5, 5);
+    min-height: 88vh;
+    width: 100vw;
+    color: white;
+}
+
+.POList li{
+    list-style: none;
+    font-size: 16px;
+}
+
+.about p{
+    font-size: 18px;
+}
